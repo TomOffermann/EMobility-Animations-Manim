@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/tom/Code/Python/5.Pk/storage_concepts/media/videos/lithium_ion/720p30/partial_movie_files/LithiumBattery/1342159004_1222075520_1240453128.mp4'
-file 'file:/Users/tom/Code/Python/5.Pk/storage_concepts/media/videos/lithium_ion/720p30/partial_movie_files/LithiumBattery/1353618911_2592943968_3372020426.mp4'
-file 'file:/Users/tom/Code/Python/5.Pk/storage_concepts/media/videos/lithium_ion/720p30/partial_movie_files/LithiumBattery/1353618911_39814631_1036548971.mp4'
-file 'file:/Users/tom/Code/Python/5.Pk/storage_concepts/media/videos/lithium_ion/720p30/partial_movie_files/LithiumBattery/1353618911_828907466_3112180385.mp4'
-file 'file:/Users/tom/Code/Python/5.Pk/storage_concepts/media/videos/lithium_ion/720p30/partial_movie_files/LithiumBattery/1353618911_2200392654_3112180385.mp4'
-file 'file:/Users/tom/Code/Python/5.Pk/storage_concepts/media/videos/lithium_ion/720p30/partial_movie_files/LithiumBattery/1353618911_378179449_1794709245.mp4'

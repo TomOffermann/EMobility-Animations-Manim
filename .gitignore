@@ -133,8 +133,8 @@ dmypy.json
 ./motors/__pycache__/
 ./storage_concepts/__pycache__/
 
-./motors/media/
-./storage_concepts/media/
+/motors/media/
+/storage_concepts/media/
 
 
 

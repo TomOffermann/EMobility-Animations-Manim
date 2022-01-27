@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/tom/Code/Python/5.Pk/motors/media/videos/rot_magnetic_field/720p30/partial_movie_files/SineWave/1342159004_1255549286_852682399.mp4'

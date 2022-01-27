@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/tom/Code/Python/5.Pk/storage_concepts/media/videos/feststoff/720p30/partial_movie_files/FestStoffBatterie/1342159004_3493041802_865788362.mp4'
-file 'file:/Users/tom/Code/Python/5.Pk/storage_concepts/media/videos/feststoff/720p30/partial_movie_files/FestStoffBatterie/1353618911_312286055_4199546301.mp4'
-file 'file:/Users/tom/Code/Python/5.Pk/storage_concepts/media/videos/feststoff/720p30/partial_movie_files/FestStoffBatterie/1353618911_378179449_2765403557.mp4'
-file 'file:/Users/tom/Code/Python/5.Pk/storage_concepts/media/videos/feststoff/720p30/partial_movie_files/FestStoffBatterie/1353618911_3301624424_864450495.mp4'
-file 'file:/Users/tom/Code/Python/5.Pk/storage_concepts/media/videos/feststoff/720p30/partial_movie_files/FestStoffBatterie/1353618911_732540774_4023126489.mp4'
-file 'file:/Users/tom/Code/Python/5.Pk/storage_concepts/media/videos/feststoff/720p30/partial_movie_files/FestStoffBatterie/1353618911_1152718458_1885298347.mp4'
