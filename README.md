@@ -1,6 +1,36 @@
 # EMobility-Animations-Manim
 Animations created with Manim for my graduation exam presentation
 
+## Setup:
+Have Python installed. Then:
+
+<pre>
+<code >pip install manim</code>
+</pre>
+For motors:
+<pre>
+<code >cd ./motors</code>
+</pre>
+For storage solutions: 
+<pre>
+<code >cd ./storage_concepts</code>
+</pre>
+Render Animation: 
+<pre>
+<code >manim %flags% %file_name% %scene_name%</code>
+</pre>
+You can find the scene_name as the name of classes in the python animation files. <br/>
+<br/>
+* Flags: For more information look in Manim-Docs 
+  * -q[quality] and -pq[quality], -q for normal render, -pq for render with instant-play of video<br/>
+  * with quality = (l,m,h,k) for low, medium, high and ultra
+____
+Example: 
+<pre>
+<code >cd ./motors && manim -qh dc_motor.py DCMotor</code>
+</pre>
+
+
 ## Some Previews:
 
 ## Videos:
